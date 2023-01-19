@@ -64,7 +64,7 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 * Diversity & Inclusion Dashboard 2:
 ![Dashboard](https://github.com/devschow/PWC-Virtual-internship/blob/main/D&I_2.jpg?raw=true)
 
-That’s it, you’re done! 
+"That’s it, you’re done! 
 
 Hope this taste of futureproofing yourself with Virtual Case Experience in Power BI as a Digital Accelerator at PwC Switzerland was good. 
 
