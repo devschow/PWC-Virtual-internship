@@ -69,3 +69,6 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 Hope this taste of futureproofing yourself with Virtual Case Experience in Power BI as a Digital Accelerator at PwC Switzerland was good. 
 
 We aim to be the first movers in digitisation, blockchain, automation, artificial intelligence for our clients – and, of course, for the future of our firm. Powerful stuff."
+
+## 🔗 Let's Connect!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-choudhury-367aa11b0/)
