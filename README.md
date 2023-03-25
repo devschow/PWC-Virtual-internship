@@ -70,5 +70,8 @@ Hope this taste of futureproofing yourself with Virtual Case Experience in Power
 
 We aim to be the first movers in digitisation, blockchain, automation, artificial intelligence for our clients – and, of course, for the future of our firm. Powerful stuff."
 
+# Completion Certificate:
+![Certificate](https://github.com/devschow/PWC-Virtual-internship/blob/main/Completion_%20certificate.png?raw=true)
+
 ## 🔗 Let's Connect!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarshi-choudhury-367aa11b0/)
